@@ -8,7 +8,7 @@ Bem-vindo ao meu repositório de portfólio! Aqui você encontra os projetos que
 
 ## 📌 Sobre mim
 
-Olá! Me chamo **Gabriel Soares**, tenho 16 anos e sou apaixonado por tecnologia e desenvolvimento.
+Olá! Me chamo **Gabriel Soares**, tenho 17 anos e sou apaixonado por tecnologia e desenvolvimento.
 
 Atualmente curso o **Ensino Médio integrado ao Técnico em Informática para Internet** e também o **Técnico em Desenvolvimento de Sistemas**, ambos na **ETEC Dr. Emílio Hernandez Aguilar**.
 
