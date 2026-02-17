@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel Soares 
 
-📎 **Portfólio Oficial:** [gabrielsoaresdev.netlify.app](gabriel-soares.netlify.app)
+📎 **Portfólio Oficial:** [gabriel-soares.netlify.app](gabriel-soares.netlify.app)
 
 Bem-vindo ao meu repositório de portfólio! Aqui você encontra os projetos que desenvolvi para praticar e demonstrar minhas habilidades como desenvolvedor em formação. Estou em busca de **oportunidades para estágio ou primeiro emprego na área de TI**, com foco em aprender, crescer e contribuir com soluções reais.
 
