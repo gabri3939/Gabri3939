@@ -15,7 +15,7 @@ Atualmente curso o **Ensino Médio integrado ao Técnico em Informática para In
 Tenho habilidades em **programação**, **criação de interfaces** e **design gráfico**, com foco em desenvolver soluções funcionais, criativas e com boa experiência do usuário.
 
 Além disso:
-- Falo **Espanhol (nível B2)** e **Inglês (nível B2)**
+- Falo **Espanhol (nível B2)** e **Inglês (nível A2)**
 - Concluí um curso de **Informática Avançada**
 - Estou sempre buscando evoluir e aprender com novos desafios
 
